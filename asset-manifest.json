@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bug-collection/static/css/main.503a3025.css",
+    "main.js": "/bug-collection/static/js/main.2c263ca7.js",
+    "static/media/construction.png": "/bug-collection/static/media/construction.2e1a5acf2ca8f8b832bf.png",
+    "static/media/fight.jpg": "/bug-collection/static/media/fight.17513fdee6cfcbe76a36.jpg",
+    "static/media/gen.jpg": "/bug-collection/static/media/gen.2f937ed6da5aee5f020a.jpg",
+    "static/media/me.png": "/bug-collection/static/media/me.bacfa5dfa3bdc5444ec0.png",
+    "static/media/text.jpg": "/bug-collection/static/media/text.bb34886deb32e3aeb45e.jpg",
+    "static/media/database.jpg": "/bug-collection/static/media/database.503dd41687e4ac664076.jpg",
+    "static/media/Resume.pdf": "/bug-collection/static/media/Resume.1d2544111de3276d7f37.pdf",
+    "index.html": "/bug-collection/index.html",
+    "main.503a3025.css.map": "/bug-collection/static/css/main.503a3025.css.map",
+    "main.2c263ca7.js.map": "/bug-collection/static/js/main.2c263ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503a3025.css",
+    "static/js/main.2c263ca7.js"
+  ]
+}
